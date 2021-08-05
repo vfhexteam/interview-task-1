@@ -23,7 +23,7 @@
 3. ~~Форкните~~ Склонируйте текущий репозиторий себе локально. 
 4. Установите в качестве `origin` созданный репозиторий командой `git remote add origin`, предварительно удалив текущий командой `git remote rm origin`.
 5. Запуште этот код в свой репозиторий. Если вы получили ошибку `ERROR: Repository not found.` и уверены, что адрес указан верно, необходимо немного подождать (скорее всего меньше минуты). 
-6. з.ы. люди из списка форкнушвих [![forked](https://img.shields.io/github/forks/vfhexteam/interview-task-1?color=red&style=plastic)](https://github.com/vfhexteam/interview-task-1/network/members), прочтите, пожалуйста, подпункты этого пункта ещё раз. Если вы все ещё в списке, спустя несколько итераций прочтения, то что-то явно идет не так, для всех остальных - `break`
+6. з.ы. люди из списка [![forked](https://img.shields.io/github/forks/vfhexteam/interview-task-1?color=red&style=plastic)](https://github.com/vfhexteam/interview-task-1/network/members), прочтите, пожалуйста, подпункты этого пункта ещё раз. Если вы все ещё в списке, спустя несколько итераций прочтения, то что-то явно идет не так, для всех остальных - `break`
 
 #### Задание
 1. Напишите реализацию всех участков кода помеченных `# TODO: need to implement this functionality [\d]` (функции/методы/реализация класса), всего их 6 штук.
